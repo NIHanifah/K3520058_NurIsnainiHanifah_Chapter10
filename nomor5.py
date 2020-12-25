@@ -11,5 +11,5 @@ while a < 4:
     file = file_lines[a].strip()
     b = file[0] + file[1]
     c = file[3] + file[4]
-    print("Bari ke-", a, "=", int(b) + int(c))
+    print("Bari ke -", a, "=", int(b) + int(c))
     a += 1
